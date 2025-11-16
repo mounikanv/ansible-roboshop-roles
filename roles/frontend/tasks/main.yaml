@@ -53,5 +53,5 @@
       name: nginx
       state: restarted
 
-      notify:
-       - Restart nginx
+  notify:
+   - Restart nginx
