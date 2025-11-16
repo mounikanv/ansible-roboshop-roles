@@ -1,5 +1,5 @@
 CATALOGUE_HOST: catalogue.mounika.site
 CART_Host: cart.mounika.site
 USER_HOST: user.mounika.site
-SHIPPING_HOST:
-PAYMENT_HOST:
+SHIPPING_HOST: shipping.mounika.site
+PAYMENT_HOST: payment.mounika.site
